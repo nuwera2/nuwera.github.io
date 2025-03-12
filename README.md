@@ -34,9 +34,10 @@ Created heatmaps and geospatial visualizations in Tableau to illustrate heart di
 Developed an interactive Tableau dashboard to analyze sales performance across product categories and regions.
 Highlighted key trends in product sales, payment methods, and regional differences.
 Provided insights to optimize sales strategy and boost revenue.
-<iframe src="## Tableau Dashboard Preview
-<iframe src="https://public.tableau.com/views/your-dashboard-link" width="800" height="600"></iframe>
-" width="800" height="600"></iframe>
+
+<iframe src="https://public.tableau.com/views/SalesPerformanceDashboard_17417452912650/Dashboard1?:embed=y&:display_count=yes&:showVizHome=no" 
+width="600" height="400" frameborder="0" scrolling="no"></iframe>
+
 ### Professional Experience
 ### Production Lead – Farmbox Greens (Seattle, WA)
 Managed crop performance and inventory tracking using Excel and SQL, increasing yield by 15%.
