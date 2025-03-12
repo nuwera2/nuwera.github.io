@@ -34,7 +34,6 @@ Created heatmaps and geospatial visualizations in Tableau to illustrate heart di
 Developed an interactive Tableau dashboard to analyze sales performance across product categories and regions.
 Highlighted key trends in product sales, payment methods, and regional differences.
 Provided insights to optimize sales strategy and boost revenue.
-##### Tableau Dashboard Preview
 <iframe src="## Tableau Dashboard Preview
 <iframe src="https://public.tableau.com/views/your-dashboard-link" width="800" height="600"></iframe>
 " width="800" height="600"></iframe>
