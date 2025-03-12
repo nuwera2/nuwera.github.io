@@ -35,6 +35,8 @@ Developed an interactive Tableau dashboard to analyze sales performance across p
 Highlighted key trends in product sales, payment methods, and regional differences.
 Provided insights to optimize sales strategy and boost revenue.
 
+![Tableau Dashboard](assets/Dashboard 1.png)
+
 ## Professional Experience
 ### Production Lead – Farmbox Greens (Seattle, WA)
 Managed crop performance and inventory tracking using Excel and SQL, increasing yield by 15%.
