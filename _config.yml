@@ -1,4 +1,4 @@
 title: Nancy Uwera
-#logo: path-file
-#show_downloads: False
-theme:jekyll-theme-minimal
+# logo: path-to-file.png     # Uncomment and update the path if you have a logo
+# show_downloads: false      # Uncomment if you want to hide download links
+theme: jekyll-theme-minimal
