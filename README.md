@@ -20,12 +20,8 @@ Cleaned and analyzed sleep disorder data using R and SQL, improving data integri
 Built and validated multiple linear regression models to quantify the impact of sleep health and lifestyle factors.
 Achieved a predictive accuracy of 90%, with a correlation coefficient accuracy of 95%.
 Delivered actionable insights to improve sleep health strategies.
-### Employee Performance and Attrition Analysis (Python)
-Analyzed HR data to identify trends in employee satisfaction and performance.
-Used Python libraries (Pandas, NumPy, Seaborn) to clean and visualize the data.
-Built and tested predictive models, including a Random Forest Classifier, which achieved 98% accuracy in predicting employee attrition.
-Created detailed heatmaps and distribution plots to support HR decision-making.
-###  Heart Disease Prediction (Python)
+
+###  Heart Disease Prediction (R)
 Used a Kaggle dataset to predict heart disease risk using machine learning.
 Conducted preprocessing and feature selection using over 20 features.
 Selected Gradient Boosting as the optimal model for its high accuracy.
@@ -50,7 +46,7 @@ Enhanced system performance and data security through backup and recovery plans.
 Exploring predictive modeling in healthcare and business operations
 Improving data visualization techniques using Tableau and Power BI
 Building more machine learning models to enhance forecasting accuracy
-accuracy
+
 ## Connect With Me
 
 Email: nan.uwera@gmail.com
