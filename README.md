@@ -26,10 +26,11 @@ Used a Kaggle dataset to predict heart disease risk using machine learning.
 Conducted preprocessing and feature selection using over 20 features.
 Selected Gradient Boosting as the optimal model for its high accuracy.
 Created heatmaps and geospatial visualizations in Tableau to illustrate heart disease prevalence across U.S. states.
+https://github.com/nuwera2/Heart-Failure-Prediction-
 ### Sales Performance Dashboard (Tableau)
 Developed an interactive Tableau dashboard to analyze sales performance across product categories and regions.
 Highlighted key trends in product sales, payment methods, and regional differences.
-Provided insights to optimize sales strategy and boost revenue.
+Provided insights to optimize sales strategy and boost revenue. https://github.com/nuwera2/Sleep-disorders-project
 
 ![Tableau Dashboard](assets/Dashboard 1.png)
 
