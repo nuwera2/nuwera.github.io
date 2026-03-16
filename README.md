@@ -35,6 +35,10 @@ Provided insights to optimize sales strategy and boost revenue. https://github.c
 ![Tableau Dashboard](assets/Dashboard 1.png)
 
 ## Professional Experience
+
+### Administrative Analyst - FHH ( Nashville, TN)
+Managed end-to-end administrative and HR operations including workflow analysis, tracking systems, onboarding, and compliance documentation while optimizing staff scheduling and utilization to meet agency and client needs. Served as a cross-functional liaison between leadership and frontline staff to drive operational efficiency, resolve workplace issues, and align day-to-day activities with company strategy.
+
 ### Production Lead – Farmbox Greens (Seattle, WA)
 Managed crop performance and inventory tracking using Excel and SQL, increasing yield by 15%.
 Optimized planting schedules, reducing delays by 30%.
